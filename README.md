@@ -1,4 +1,4 @@
-# WRI Flood Exposure Dashboard – Indonesia
+#  Flood Exposure Dashboard – Indonesia
 
 An interactive Shiny dashboard to visualize district-level population exposure to riverine flooding in Indonesia under climate change scenarios (RCP 4.5 and RCP 8.5).
 
